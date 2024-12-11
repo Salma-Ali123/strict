@@ -95,16 +95,16 @@ body p{
   align-items: center;
 }
 .imgs-container h2{
-  margin-bottom: 30px;
+  margin-bottom: 15px;
   color:#383848 ;
 }
 .imgs-container p{
-  margin-bottom: 30px;
+  margin-bottom: 15px;
 }
 .box img{
   width: 30%;
   margin-right: 20px;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 #contact{
   background-image: url(images/contactbg.png);
